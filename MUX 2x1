@@ -1,0 +1,7 @@
+module dff(
+    output q,qb,
+    input d,
+    input clk,
+    input clear
+    );
+endmodule
